@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">F2018</string>
+    <string name="logo_description">страсти</string>
+    <string name="lol">страсти</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">Карта</string>
+</resources>
